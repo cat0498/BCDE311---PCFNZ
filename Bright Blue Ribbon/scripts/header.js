@@ -13,21 +13,21 @@ headerMount.outerHTML = `
     </div>
     <header>
         <div class="header-div">
-            <a href="${siteRoot}pages/index.html" class="logo">
+            <a href="${siteRoot}index.html" class="logo">
                 <img src="${siteRoot}images/logo.webp" alt="Prostate Cancer Foundation NZ">
             </a>
         </div>
         <nav class="main-nav">
             <ul class="desktop-nav">
-                <li><a href="../pages/index.html">Home</a></li>
+                <li><a href="../index.html">Home</a></li>
                 <li class="nav-dropdown">
                     <details>
                         <summary>Where to Start?</summary>
                         <ul class="nav-dropdown-menu">
-                            <li><a href="prostateinfo1.html">What is Prostate Cancer</a></li>
-                            <li><a href="prostateinfo2.html">Getting Tested or Diagnosed</a></li>
-                            <li><a href="prostateinfo3.html">Treatments</a></li>
-                            <li><a href="prostateinfo4.html">Side Effects</a></li>
+                            <li><a href="../pages/prostateinfo1.html">What is Prostate Cancer</a></li>
+                            <li><a href="../pages/prostateinfo2.html">Getting Tested or Diagnosed</a></li>
+                            <li><a href="../pages/prostateinfo3.html">Treatments</a></li>
+                            <li><a href="../pages/prostateinfo4.html">Side Effects</a></li>
                         </ul>
                     </details>
                 </li>
@@ -35,16 +35,16 @@ headerMount.outerHTML = `
                     <details>
                         <summary>Whats Next?</summary>
                         <ul class="nav-dropdown-menu">
-                            <li><a href="prostateinfo5.html">Talking to a Specialist</a></li>
-                            <li><a href="prostateinfo6.html">Living Well</a></li>
-                            <li><a href="prostateinfo7.html">Getting Support</a></li>
-                            <li><a href="prostateinfo8.html">Getting Involved</a></li>
+                            <li><a href="../pages/prostateinfo5.html">Talking to a Specialist</a></li>
+                            <li><a href="../pages/prostateinfo6.html">Living Well</a></li>
+                            <li><a href="../pages/prostateinfo7.html">Getting Support</a></li>
+                            <li><a href="../pages/prostateinfo8.html">Getting Involved</a></li>
                         </ul>
                     </details>
                 </li>
-                <li><a href="../pages/index.html#testimonial">Testimonial</a></li>
-                <li><a href="../pages/index.html#events">Events</a></li>
-                <li><a href="../pages/index.html#fundraising">Fundraising</a></li>
+                <li><a href="../index.html#testimonial">Testimonial</a></li>
+                <li><a href="../index.html#events">Events</a></li>
+                <li><a href="../index.html#fundraising">Fundraising</a></li>
                 <li><a class="nav-donate" href="https://prostate.org.nz/donations">Donate</a></li>
             </ul>
             <details class="mobile-nav-menu">
@@ -58,10 +58,10 @@ headerMount.outerHTML = `
                         <details>
                             <summary>Where to Start?</summary>
                             <ul class="nav-dropdown-menu">
-                                <li><a href="prostateinfo1.html">What is Prostate Cancer</a></li>
-                                <li><a href="prostateinfo2.html">Getting Tested or Diagnosed</a></li>
-                                <li><a href="prostateinfo3.html">Treatments</a></li>
-                                <li><a href="prostateinfo4.html">Side Effects</a></li>
+                                <li><a href="../pages/prostateinfo1.html">What is Prostate Cancer</a></li>
+                                <li><a href="../pages/prostateinfo2.html">Getting Tested or Diagnosed</a></li>
+                                <li><a href="../pages/prostateinfo3.html">Treatments</a></li>
+                                <li><a href="../pages/prostateinfo4.html">Side Effects</a></li>
                             </ul>
                         </details>
                     </li>
@@ -69,16 +69,16 @@ headerMount.outerHTML = `
                     <details>
                         <summary>Whats Next?</summary>
                         <ul class="nav-dropdown-menu">
-                            <li><a href="prostateinfo5.html">Talking to a Specialist</a></li>
-                            <li><a href="prostateinfo6.html">Living Well</a></li>
-                            <li><a href="prostateinfo7.html">Getting Support</a></li>
-                            <li><a href="prostateinfo8.html">Getting Involved</a></li>
+                            <li><a href="../pages/prostateinfo5.html">Talking to a Specialist</a></li>
+                            <li><a href="../pages/prostateinfo6.html">Living Well</a></li>
+                            <li><a href="../pages/prostateinfo7.html">Getting Support</a></li>
+                            <li><a href="../pages/prostateinfo8.html">Getting Involved</a></li>
                         </ul>
                     </details>
                 </li>
-                    <li><a href="../pages/index.html#testimonial">Testimonial</a></li>
-                    <li><a href="../pages/index.html#events">Events</a></li>
-                    <li><a href="../pages/index.html#fundraising">Fundraising</a></li>
+                    <li><a href="../index.html#testimonial">Testimonial</a></li>
+                    <li><a href="../index.html#events">Events</a></li>
+                    <li><a href="../index.html#fundraising">Fundraising</a></li>
                     <li><a class="nav-donate" href="https://prostate.org.nz/donations">Donate</a></li>
                 </ul>
             </details>
